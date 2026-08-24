@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Krishnan533/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0704-binary-search](https://github.com/Krishnan533/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Krishnan533/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0941-valid-mountain-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Krishnan533/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/Krishnan533/leetcode-solutions/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |
