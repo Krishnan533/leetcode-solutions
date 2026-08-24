@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0941-valid-mountain-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0941-valid-mountain-array) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Krishnan533/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Krishnan533/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
