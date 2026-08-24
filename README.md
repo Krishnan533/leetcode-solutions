@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Krishnan533/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Krishnan533/leetcode-solutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Krishnan533/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Krishnan533/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
