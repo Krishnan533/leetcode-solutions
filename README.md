@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Krishnan533/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Krishnan533/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/Krishnan533/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Krishnan533/leetcode-solutions/tree/master/0705-design-hashset) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Krishnan533/leetcode-solutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Krishnan533/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Krishnan533/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Krishnan533/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
