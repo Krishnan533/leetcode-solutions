@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Krishnan533/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Krishnan533/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Krishnan533/leetcode-solutions/tree/master/0290-word-pattern) |
+| [1108-defanging-an-ip-address](https://github.com/Krishnan533/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Krishnan533/leetcode-solutions/tree/master/1528-shuffle-string) |
 ## Math
 |  |
