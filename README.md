@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnan533/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Krishnan533/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Krishnan533/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Krishnan533/leetcode-solutions/tree/master/0290-word-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/Krishnan533/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Krishnan533/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Krishnan533/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Krishnan533/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Krishnan533/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
