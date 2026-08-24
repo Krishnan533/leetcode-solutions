@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Krishnan533/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Krishnan533/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/Krishnan533/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Krishnan533/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0941-valid-mountain-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0941-valid-mountain-array) |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Krishnan533/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Krishnan533/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Krishnan533/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnan533/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
