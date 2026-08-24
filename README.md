@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Krishnan533/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Krishnan533/leetcode-solutions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Krishnan533/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Krishnan533/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Krishnan533/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0941-valid-mountain-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0941-valid-mountain-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Krishnan533/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Krishnan533/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Krishnan533/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
