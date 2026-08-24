@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Krishnan533/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Krishnan533/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Krishnan533/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Krishnan533/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Krishnan533/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Krishnan533/leetcode-solutions/tree/master/0704-binary-search) |
 ## Interactive
