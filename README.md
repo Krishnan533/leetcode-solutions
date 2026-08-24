@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Krishnan533/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0705-design-hashset](https://github.com/Krishnan533/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0941-valid-mountain-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Krishnan533/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Krishnan533/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Krishnan533/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishnan533/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krishnan533/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -56,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Krishnan533/leetcode-solutions/tree/master/0705-design-hashset) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Krishnan533/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Krishnan533/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
